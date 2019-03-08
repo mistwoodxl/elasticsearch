@@ -231,7 +231,7 @@ Pass arbitrary jvm arguments.
 ------------------------------
 
 == Running verification tasks
-
+# test test test test test
 To run all verification tasks, including static checks, unit tests, and integration tests:
 
 ---------------------------------------------------------------------------
